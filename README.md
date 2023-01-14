@@ -1,4 +1,4 @@
-# Website for the Kpop Group Black Pink
+# Website for the Kpop Group Blackpink
 - Static index and about pages
 - Interactive store page using vanilla JavaScript
 
