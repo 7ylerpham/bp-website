@@ -1,7 +1,6 @@
-# bp-website
-Example website for the kpop group BlackPink:
+# Website for the Kpop Group Black Pink
 - Static index and about pages
-- Interactive store page using vanilla JavaSript
+- Interactive store page using vanilla JavaScript
 
 <img src="demo/index1.png" width="500">
 <img src="demo/index2.png" width="500">
